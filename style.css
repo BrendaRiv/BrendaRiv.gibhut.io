@@ -1,0 +1,188 @@
+.logo {
+    background-color: rgb(25, 69, 82);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.logo img {
+    width: 150px;
+    margin-bottom: 0;
+}
+
+.logo p{
+    font-size: 100px;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 0;
+    }
+
+nav ul{
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    justify-content: right;
+    background-color: rgb(25, 69, 82);
+}
+
+nav ul a{
+    margin-right: 200px;
+    margin-top: 0;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+    
+}
+
+h1{
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(249, 249, 249);
+    background-color: rgb(142, 174, 77);
+    display: flex;
+    justify-content: center;
+}
+
+
+body p{
+    font-size: 30px;
+    text-align: justify;
+    margin: 30px;
+}
+
+body h2{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(242, 243, 243);
+    background-color: rgb(25, 69, 82);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+body h3{
+    font-size: 40px;
+    color: rgb(142, 174, 77);
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.aventura3 h3{
+    margin-left: 100px;
+}
+
+.aventuras1{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+
+.aventuras1 img{
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 15px;
+    display: flex;
+    border-radius: 20px;
+    border: 10px solid #628495;
+    border-radius: 4px;
+    }
+
+.aventuras2{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+
+.aventuras2 img{
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 15px;
+    display: flex;
+    border-radius: 20px;
+    border: 10px solid #628495;
+    border-radius: 4px;
+    }
+
+.aventuras3{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    }
+    
+.aventuras3 img{
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 15px;
+    display: flex;
+    border-radius: 20px;
+    border: 10px solid #628495;
+    border-radius: 4px;
+    }
+
+.aventuras4{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    }
+
+.aventuras4 img{
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 15px;
+    display: flex;
+    border-radius: 20px;
+    border: 10px solid #628495;
+    border-radius: 4px;
+    }
+
+.aventuras5{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    margin-bottom: 50px;
+    }
+
+.aventuras5 img{
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 15px;
+    display: flex;
+    border-radius: 20px;
+    border: 10px solid #628495;
+    border-radius: 4px;
+    }
+
+.cajanosotros img{
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+}
+
+.video{
+    margin-left: 400px;
+    margin-bottom: 50px ;
+}
+
+footer ul li{
+    font-size: 15px;
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+    line-height: 1.8;
+}
+
+footer{
+    background-color: rgb(156, 156, 156);
+}
+
+.pie iframe{
+    width: 150px;
+    height: 150px;
+}
